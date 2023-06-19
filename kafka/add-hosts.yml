@@ -19,4 +19,4 @@
 #    ansible.builtin.lineinfile:
 #      path: /etc/hosts
 #      line: 192.168.1.210 registry.example.com
-#      create: yes
+#      create: ye
